@@ -67,7 +67,7 @@ function render(leads){
         render(myLeads)
     })
     
-       
+  //add event function     
 
     newButton.addEventListener("click", function(){
      myLeads.push(inputEl.value)
